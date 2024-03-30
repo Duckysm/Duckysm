@@ -12,9 +12,7 @@ My name is Hazza, and I'm from Australia. I want to study for the CompTaA A+ and
 ✵ Computer security
 ✵ Networking
 
-### Skills and Experience
-Nothing yet
-
+### Acquiring Knowledge and Experience I'm focusing on 
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning  Computer security 
 - 🤔 I’m looking for help with  Computer security 
