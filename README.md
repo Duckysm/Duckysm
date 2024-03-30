@@ -21,6 +21,6 @@ My name is Hazza, and I'm from Australia. I want to study for the CompTaA A+ and
 - 🤔 I’m looking for help with Networking  
 
 ## 
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+
 
 
