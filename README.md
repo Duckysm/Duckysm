@@ -31,7 +31,7 @@ My name is Hazza, and I'm from Australia. I want to study for the CompTaA A+ and
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/duckysm/duckysm/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
