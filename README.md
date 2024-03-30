@@ -2,7 +2,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7F7F7&background=9DFF2800&vCenter=true&random=false&width=435&lines=Hazza+Ducky" alt="Typing SVG" /></a>                 
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7F7F7&background=9DFF2800&vCenter=true&random=false&width=435&lines=Hazza+Ducky" alt="Typing SVG" /></a>                 
 Studying Python and computer security 
 My name is Hazza, and I'm from Australia. I want to study for the CompTaA A+ and Security exams, learn Python, and improve my skills in computer security. I love creating videos to teach people new things and make them feel happy. I'm a content creator.
 
