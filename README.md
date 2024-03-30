@@ -20,7 +20,7 @@ My name is Hazza, and I'm from Australia. I want to study for the CompTaA A+ and
 ## 📕Latest Blog Posts
 
 ## Acquiring Knowledge and Experience I'm focusing on 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 
 
