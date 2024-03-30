@@ -15,12 +15,14 @@ My name is Hazza, and I'm from Australia. I want to study for the CompTaA A+ and
 ✵ Computer security
 ✵ Networking
 
+## 💾Latest YouTube Videos
+
+## 📕Latest Blog Posts
+
 ## Acquiring Knowledge and Experience I'm focusing on 
 - 🔭 I’m currently working on Python 
 - 🌱 I’m currently learning  Linux
 - 🤔 I’m looking for help with Networking  
-
-## 
 
 
 
