@@ -21,7 +21,7 @@ My name is Hazza, and I'm from Australia. I want to study for the CompTaA A+ and
 
 ## Acquiring Knowledge and Experience I'm focusing on 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
 
 
