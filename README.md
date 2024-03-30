@@ -20,6 +20,6 @@ My name is Hazza, and I'm from Australia. I want to study for the CompTaA A+ and
 - 🤔 I’m looking for help with Networking  
 
 ## 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Duckysm.visitor-badge)
 
 
